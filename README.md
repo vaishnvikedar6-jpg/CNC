@@ -342,7 +342,7 @@ flowchart TD
 
 **MONITOR → ANALYSE → PREDICT → PREVENT**
 
-[⚙️ EXPLORE CNC AERO-HEALTH MONITOR](https://github.com/vaishnvikedar6-jpg/CNC)
+[⚙️ EXPLORE CNC AERO-HEALTH MONITOR](https://vaishnvikedar6-jpg.github.io/CNC/)
 
 <sub>Built for intelligent manufacturing and predictive maintenance.</sub>
 
