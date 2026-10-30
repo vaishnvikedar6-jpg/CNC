@@ -13,7 +13,7 @@
 
 A smart industrial analytics interface designed to transform machine telemetry into actionable health intelligence.
 
-[🚀 EXPLORE PROJECT](https://github.com/vaishnvikedar6-jpg/CNC)
+[🚀 EXPLORE PROJECT](https://vaishnvikedar6-jpg.github.io/CNC/)
 
 </div>
 
